@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C3C2B4&size=40&multiline=true&width=1800&height=200&lines=Welcome+to+my+sanctuary!;My+preferred+name+is+Juby+(she%2Fher).;I+am+a+full-time+Cybersecurity+student+at+USF+(Go+Bulls!);I+am+currently+searching+for+an+internship+in+the+cybersecurity+field.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C3C2B4&size=40&multiline=true&width=1800&height=200&lines=Welcome+to+my+sanctuary!;My+preferred+name+is+Juby+(she%2Fher).;I+am+a+USF+Cybersecurity+Alumni.+;I+am+pursuing+my+dream+job+as+a+Pen+Tester.)](https://git.io/typing-svg)
 
 
 [![LinkedIn][1.2]][1]
-[![hackerrank][2.2]][2]
+
 [![outlook][3.2]][3]
 
 <!-- Icons -->
