@@ -3,18 +3,18 @@
 
 [![LinkedIn][1.2]][1]
 
-[![outlook][3.2]][3]
+[![outlook][2.2]][2]
 
 <!-- Icons -->
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-[3.2]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+[2.2]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/decenaj/
 
-[3]: mailto:decena.j@outlook.com
+[2]: mailto:decena.j@outlook.com
 
 
 <!---
