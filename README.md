@@ -2,8 +2,10 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-<!--- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<b>Blue Team Labs Online - Soc Alpha 1</b>
+  - [Praciting reviewing logs and alerts](https://github.com/AliasVel/BTLO-SocAlpha1/blob/main/README.md)
+
+  <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
