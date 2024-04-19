@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C3C2B4&size=40&multiline=true&width=1800&height=200&lines=Hi, I'm Jubelkys but my preferred name is Juby.)](https://git.io/typing-svg)
+[Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C3C2B4&size=40&multiline=true&width=1800&height=200&lines=Hi, I'm Jubelkys but my preferred name is Juby.)](https://git.io/typing-svg)
 
 
 <!-- <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> -->
