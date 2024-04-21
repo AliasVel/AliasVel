@@ -4,11 +4,12 @@
 
 <b>Blue Team Labs Online - Soc Alpha 1</b>
   - [Praciting reviewing logs and alerts](https://github.com/AliasVel/BTLO-SocAlpha1/blob/main/README.md)
+    
+<b>"So you want to be a SOC Analyst?"</b>
+  - [Detection and Response Lab](https://github.com/AliasVel/SOC-D-R/blob/main/README.md)
 
-  <!--
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+  
+<!--- <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
