@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 <b>Blue Team Labs Online - Soc Alpha 1</b>
-  - [Praciting reviewing logs and alerts](https://github.com/AliasVel/BTLO-SocAlpha1/blob/main/README.md)
+  - [Reviewing logs and alerts](https://github.com/AliasVel/BTLO-SocAlpha1/blob/main/README.md)
     
 <b>"So you want to be a SOC Analyst?"</b>
   - [Detection and Response Lab](https://github.com/AliasVel/SOC-D-R/blob/main/README.md)
