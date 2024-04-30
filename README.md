@@ -8,13 +8,15 @@
 <b>"So you want to be a SOC Analyst?"</b>
   - [Detection and Response Lab](https://github.com/AliasVel/SOC-D-R/blob/main/README.md)
 
-
+<b>Blue Team Labs Online - Malicious PowerShell Analysis</b>
+- [Investigating a malicious script](https://github.com/AliasVel/BTLO-Powershell-Analysis/blob/main/README.md)
+  
 <h2>Certifications:</h2>
 
   - <a href= https://www.credly.com/badges/9663075d-713b-4d97-9a45-e19a043956cd/public_url>CompTIA Security+</a>
 
 <h2>Connect with me:</h2>
-<a href=https://linkedin.com/in/decenaj><img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href=https://linkedin.com/in/decenaj><img align="left" alt="JubelkysDecena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <!---
 AliasVel/AliasVel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
